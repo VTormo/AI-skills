@@ -14,7 +14,7 @@ skills/
 
 | Skill | Descripción |
 |-------|-------------|
-| [git-commit](./git-commit/SKILL.md) | Genera y ejecuta commits en español con formato estándar `tipo(scope): resumen` |
+| [git-commit](./git-commit/SKILL.md) | Genera y ejecuta commits con formato estándar `tipo(scope): resumen` |
 
 ## Cómo añadir una skill
 
